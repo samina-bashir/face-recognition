@@ -14,10 +14,10 @@ To use this code, follow these steps:
    pip install opencv-python face-recognition numpy
    ```
 
-2. Run the `face_recognition.py` script:
+2. Run the `main.py` script:
 
    ```bash
-   python face_recognition.py
+   python main.py
    ```
 
 3. The script will process the random image from Gallery, perform face recognition, and display an output image with recognized face labeled.
